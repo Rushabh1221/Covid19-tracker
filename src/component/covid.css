@@ -1,0 +1,29 @@
+body{
+     background-color: #212529!important;
+ }
+
+.card{ 
+    width: 20rem; 
+    height: 10rem; 
+    color:ghostwhite;
+}
+
+.card-col{
+    background-color: #212529; 
+}
+
+.card:hover{
+    box-shadow: 5px 5px 5px 1px rgba(116, 114, 114, 0.877)!important;
+}
+
+.card-text{ 
+    font-size: .9rem;
+    padding: 0.4rem 1.9rem;
+} 
+
+p{
+    font-size: 28px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style:initial;
+    font-display: block;
+}
